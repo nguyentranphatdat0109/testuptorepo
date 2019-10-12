@@ -1,1 +1,2 @@
 thu pull ve thu
+test thu git diff va git log
